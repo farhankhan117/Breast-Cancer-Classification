@@ -1,4 +1,3 @@
-readme_content = """
 # Logistic Regression - Breast Cancer Classification
 
 ## Objective  
